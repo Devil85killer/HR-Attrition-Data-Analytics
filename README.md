@@ -16,8 +16,7 @@ Through Python analysis and Power BI visualization, we found the following criti
 5. **Job Satisfaction:** A large portion of employees who left had marked their Job Satisfaction as '1' (Lowest).
 
 ## 🖥️ Dashboard Snapshot
-![HR Dashboard](Dashboard_Image.png)
-*(Note: Ensure your screenshot is named 'Dashboard_Image.png' in the repo for this image to show up!)*
+![HR Dashboard](hr_analysis.png)
 
 ## 💡 How to use this repository
 1. `hr_analysis.py`: Contains the Python code used for initial data cleaning and EDA.
